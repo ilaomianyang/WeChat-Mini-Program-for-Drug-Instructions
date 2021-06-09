@@ -1,7 +1,7 @@
 // pages/show/show.js
 const WxParse = require('../../wxParse/wxParse');
 const baseUrl = "http://api.tianapi.com/txapi/yaopin/index";
-const key = "5aec45703132e80b267637672b3f3690";
+const key = "";
 Page({
 
   /**
