@@ -2,7 +2,7 @@
 //获取应用实例
 const app = getApp();
 const baseUrl = "http://api.tianapi.com/txapi/yaopin/index";
-const key = "5aec45703132e80b267637672b3f3690";
+const key = "xxx";
 var WxSearch = require('../../wxSearchView/wxSearchView.js');
 
 Page({
